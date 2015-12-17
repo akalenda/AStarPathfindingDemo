@@ -1,6 +1,6 @@
 # AStarPathfindingDemo
 
-![https://raw.githubusercontent.com/akalenda/AStarPathfindingDemo/master/screenshot.gif](screenshot url)
+![](https://raw.githubusercontent.com/akalenda/AStarPathfindingDemo/master/screenshot.gif)
 
 ## Wat?
 
